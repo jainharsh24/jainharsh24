@@ -126,7 +126,7 @@ Goes beyond a side project — built on academic research into how people learn 
 <img src="https://img.shields.io/badge/AI-Groq_LLM-FF4B00?style=for-the-badge"/> &nbsp;
 <img src="https://img.shields.io/badge/TYPE-Agentic_AI_App-blueviolet?style=for-the-badge"/>
 
-**[🔗 View Repository →](https://github.com/jainharsh24/Agentic-ExplainReport)**
+**[🔗 View Repository →](https://github.com/jainharsh24/AI-ExplainReport)**
 
 An AI-powered web app that reads your medical lab report (PDF) and explains it in plain language — no medical degree required.
 
