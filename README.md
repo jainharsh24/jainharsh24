@@ -92,6 +92,33 @@
 
 ---
 
+### 📚 &nbsp; SELFEDU-HUB
+
+<img src="https://img.shields.io/badge/STATUS-RESEARCH_BACKED-orange?style=for-the-badge"/> &nbsp;
+<img src="https://img.shields.io/badge/LANGUAGE-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/TYPE-EdTech_Platform-9C27B0?style=for-the-badge"/>
+
+**[🔗 View Repository →](https://github.com/jainharsh24/SelfEdu-Hub)**
+
+A structured self-education platform that helps learners organize, track, and manage their own learning journeys — backed by a formal research paper.
+
+**✦ What it solves**
+Self-directed learners drown in scattered tabs, bookmarks, and half-finished resources. SelfEdu-Hub brings structure to self-education, giving learners a single place to manage everything.
+
+**✦ Features**
+- 🗂️ Centralized hub for all learning resources — articles, videos, docs, notes
+- 📈 Track progress across subjects and resource types
+- 🎨 Clean web interface built with Java + HTML/CSS
+- 📄 Includes a formal research paper on self-directed learning methodology
+- ☕ Enterprise-grade Spring Boot backend architecture
+
+**✦ Impact**
+Goes beyond a side project — built on academic research into how people learn best. Demonstrates the ability to translate theory into a working product.
+
+`Java` · `Spring Boot` · `Maven` · `HTML/CSS` · `Research Paper`
+
+---
+
 ### 🧠 &nbsp; AGENTIC EXPLAINREPORT
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge"/> &nbsp;
@@ -153,33 +180,6 @@ Most productivity tools are over-engineered. This is a focused, no-nonsense app 
 A practical, deployed tool that demonstrates full-stack Python development — from auth to database to deployment-ready packaging.
 
 `Python` · `Flask` · `Flask-SQLAlchemy` · `SQLite` · `HTML/CSS`
-
----
-
-### 📚 &nbsp; SELFEDU-HUB
-
-<img src="https://img.shields.io/badge/STATUS-RESEARCH_BACKED-orange?style=for-the-badge"/> &nbsp;
-<img src="https://img.shields.io/badge/LANGUAGE-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/TYPE-EdTech_Platform-9C27B0?style=for-the-badge"/>
-
-**[🔗 View Repository →](https://github.com/jainharsh24/SelfEdu-Hub)**
-
-A structured self-education platform that helps learners organize, track, and manage their own learning journeys — backed by a formal research paper.
-
-**✦ What it solves**
-Self-directed learners drown in scattered tabs, bookmarks, and half-finished resources. SelfEdu-Hub brings structure to self-education, giving learners a single place to manage everything.
-
-**✦ Features**
-- 🗂️ Centralized hub for all learning resources — articles, videos, docs, notes
-- 📈 Track progress across subjects and resource types
-- 🎨 Clean web interface built with Java + HTML/CSS
-- 📄 Includes a formal research paper on self-directed learning methodology
-- ☕ Enterprise-grade Spring Boot backend architecture
-
-**✦ Impact**
-Goes beyond a side project — built on academic research into how people learn best. Demonstrates the ability to translate theory into a working product.
-
-`Java` · `Spring Boot` · `Maven` · `HTML/CSS` · `Research Paper`
 
 ---
 
