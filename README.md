@@ -37,7 +37,7 @@
 ║                                                                          ║
 ║   👤  Name         →  Harsh Jain                                        ║
 ║   🏷️  Handle       →  @jainharsh24                                      ║
-║   🌍  Based In     →  India                                              ║
+║   🌍  Based In     →  India                                             ║
 ║   🎯  Focused On   →  Backend Engineering · Agentic AI · Full-Stack     ║
 ║   🔧  Primary      →  Java · Spring Boot · Python · Flask               ║
 ║   🤖  AI Stack     →  Groq API · LLM Integration · Agentic Workflows    ║
@@ -82,7 +82,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 </div>
 
