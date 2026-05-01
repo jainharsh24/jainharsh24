@@ -33,18 +33,18 @@
 ## 🌐 &nbsp; ABOUT ME
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   👤  Name         →  Harsh Jain                                        ║
-║   🏷️  Handle       →  @jainharsh24                                      ║
-║   🌍  Based In     →  India                                             ║
-║   🎯  Focused On   →  Backend Engineering · Agentic AI · Full-Stack     ║
-║   🔧  Primary      →  Java · Spring Boot · Python · Flask               ║
-║   🤖  AI Stack     →  Groq API · LLM Integration · Agentic Workflows    ║
-║   💡  Philosophy   →  Build tools that actually help real people        ║
-║   🔭  Currently    →  Working at the intersection of AI + healthcare    ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║   👤  Name         →  Harsh Jain                                          ║
+║   🏷️  Handle       →  jainharsh24                                         ║
+║   🌍  Based In     →  India                                               ║
+║   🎯  Focused On   →  Backend Engineering · Agentic AI · Full-Stack       ║
+║   🔧  Primary      →  Java · Spring Boot · Python · Flask                 ║
+║   🤖  AI Stack     →  Groq API · LLM Integration · Agentic Workflows      ║
+║   💡  Philosophy   →  Build tools that actually help real people          ║
+║   🔭  Currently    →  Working at the intersection of AI in healthcare and ║
+║                       Education                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
