@@ -215,21 +215,21 @@ A practical, deployed tool that demonstrates full-stack Python development — f
 ## 🧭 &nbsp; WHAT DRIVES ME
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   I believe the best software is invisible.                      ║
-║                                                                  ║
-║   The best tool doesn't demand your attention —                  ║
-║   it quietly solves your problem and gets out of the way.        ║
-║                                                                  ║
-║   🧠  ExplainReport  →  AI that speaks human, not clinical       ║
-║   ✅  Task Manager   →  Productivity without the bloat           ║
-║   📚  SelfEdu-Hub   →  Learning, organized and intentional       ║
-║                                                                  ║
-║   Every line of code I write asks:                               ║
-║   "Does this make someone's life a little easier?"               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║                                                                ║
+║   I believe the best software is invisible.                    ║
+║                                                                ║
+║   The best tool doesn't demand your attention —                ║
+║   it quietly solves your problem and gets out of the way.      ║
+║                                                                ║
+║   🧠  ExplainReport  →  AI that speaks human, not clinical    ║
+║   ✅  Task Manager   →  Productivity without the bloat        ║
+║   📚  SelfEdu-Hub   →  Learning, organized and intentional    ║
+║                                                                ║
+║   Every line of code I write asks:                             ║
+║   "Does this make someone's life a little easier?"             ║
+║                                                                ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ---
