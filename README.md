@@ -149,7 +149,7 @@ Simple multi-user task management application.
 
 🏅 ByteShow Project Competition
 
-💯 Solved **100+ DSA Problems** on LeetCode
+💯 Solved **200+ DSA Problems** on LeetCode
 
 📜 ShadowFox Internship Certificate
 
