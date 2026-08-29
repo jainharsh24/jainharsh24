@@ -1,171 +1,119 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1f2937,50:111827,100:000000&text=Harsh%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1f2937,50:111827,100:000000&text=Harsh%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-# Backend Developer • AI Enthusiast • Computer Engineering Student
+# Java Developer • Backend Enthusiast • Computer Engineering Student
 
 [![GitHub followers](https://img.shields.io/github/followers/jainharsh24?style=for-the-badge)](https://github.com/jainharsh24)
-[![Profile Views](https://komarev.com/ghpvc/?username=jainharsh24&style=for-the-badge)](https://github.com/jainharsh24)
+[![Profile Views](https://komarev.com/ghpvc/?username=jainharsh24\&style=for-the-badge)](https://github.com/jainharsh24)
 
 </div>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-I'm a **Computer Engineering student** passionate about building scalable backend applications with **Java, Spring Boot, and AI-powered solutions**.
+I'm a **Computer Engineering student** interested in backend development and building practical applications using **Java, Spring Boot, and AI APIs**.
 
-Currently I'm focused on:
+Currently focusing on:
 
-- 🚀 Backend Development
-- ☕ Java & Spring Boot
-- 🤖 AI Applications & Agentic AI
-- 🔐 Cybersecurity (Major Project)
-- 📚 Data Structures & Algorithms
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+* ☕ Java & Spring Boot
+* 🔧 Backend Development & REST APIs
+* 🤖 AI-powered applications
+* 🧩 Data Structures & Algorithms
+* 📚 Learning system design and backend development
 
 ---
 
-## Backend
+## 🛠 Tech Stack
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge\&logo=thymeleaf\&logoColor=white)
+![React](https://img.shields.io/badge/React-Basic-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 
----
+**Databases**
 
-## Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
 
----
+**Tools & Cloud**
 
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Projects
 
-## 📚 SelfEdu – AI Roadmap Generator
+### 📚 SelfEdu — AI Roadmap Generator & Self-Learning Platform
 
-> AI-powered learning platform that generates personalized learning roadmaps using LLMs.
+Built an AI-powered learning platform that generates **personalized learning roadmaps** using the Groq API and YouTube Data API.
 
-### Features
+Designed a multi-user backend with **Spring Security and roadmap-level data isolation**, along with learning resources, testing, and progress tracking.
 
-- Personalized AI Roadmaps
-- Authentication & User Dashboard
-- Progress Tracking
-- YouTube Learning Resources
-- AI Explanations
-- MCQ Test System
-- PostgreSQL Database
-- Spring Security
-
-**Tech Stack**
-
-`Java` `Spring Boot` `Spring Security` `PostgreSQL` `Groq API`
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `Groq API` `YouTube Data API`
 
 ---
 
-## 🩺 ExplainReport
+### 🩺 ExplainReport — AI Medical Report Explainer
 
-> AI-powered medical report explainer that converts complex lab reports into easy-to-understand insights.
+Built and deployed a medical report processing application that extracts lab data from PDFs and provides **AI-assisted, plain-language explanations**.
 
-### Features
+Implemented rule-based checks for abnormal values and used the Groq API for summaries, alerts, and follow-up questions.
 
-- Upload Medical PDF
-- Extract Lab Parameters
-- AI Summary
-- Rule-based Analysis
-- AWS EC2 Deployment
-
-**Tech Stack**
-
-`Java` `Spring Boot` `Apache PDFBox` `Groq API`
+`Java` `Spring Boot` `PDFBox` `Groq API` `Thymeleaf` `AWS EC2`
 
 ---
 
-## ✅ Flask Task Manager
+## 💼 Experience
 
-Simple multi-user task management application.
+### ShadowFox — Python Development Intern
 
-### Features
+**Feb 2026**
 
-- User Authentication
-- Task CRUD
-- SQLite Database
-- Flask Backend
-
-**Tech Stack**
-
-`Python` `Flask` `SQLite`
+Worked on Python automation and experimented with **LLM behaviour**, including prompt sensitivity, context retention, and the effect of temperature on model reasoning and accuracy.
 
 ---
 
-# 🎓 Experience
+### Computer Society of India (CSI), Terna Engineering College
 
-### ShadowFox
+**Technical Executive · 2025–2026**
 
-**Python Development Intern**
-
-- Python Automation
-- LLM Experiments
-- Prompt Engineering
-- AI Model Evaluation
+Organized technical workshops and mentored juniors in programming, including sessions around emerging technologies such as Agentic AI.
 
 ---
 
-### Computer Society of India (CSI)
+## 🏆 Achievements
 
-**Technical Executive**
-
-- Organized technical workshops
-- Guided juniors
-- Managed technical events
-
----
-
-# 🏆 Achievements
-
-🏅 SummerHacks Hackathon Participant
-
-🏅 ByteShow Project Competition
-
-💯 Solved **200+ DSA Problems** on LeetCode
-
-📜 ShadowFox Internship Certificate
+* 🏅 **SummerHacks 2026** — Developed a functional prototype during a 48-hour hackathon.
+* 🏅 **ByteShow Project Competition** — Top Performer for presenting backend architecture and AI integration solutions.
+* 💻 **200+ DSA problems** solved on LeetCode.
+* 📜 Completed an **Algorithmic Problem Solving** bootcamp.
+* 📱 Earned an **Android Studio development certification**.
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- Advanced Spring Boot
-- System Design
-- Agentic AI
-- DevSecOps
-- Cybersecurity
+* Spring Boot
+* Backend Development
+* System Design
+* Agentic AI
+* Data Structures & Algorithms
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -181,18 +129,16 @@ Simple multi-user task management application.
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/Harsh-jain24
-- 💻 GitHub: https://github.com/jainharsh24
-- 📧 Email: harsh.142jain2415@gmail.com
-- 🧩 LeetCode: https://leetcode.com/jainharsh24
+* 💼 [LinkedIn](https://linkedin.com/in/Harsh-jain24)
+* 💻 [GitHub](https://github.com/jainharsh24)
+* 📧 [harsh.142jain2415@gmail.com](mailto:harsh.142jain2415@gmail.com)
+* 🧩 [LeetCode](https://leetcode.com/jainharsh24)
 
 ---
 
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
 
 *"Always learning. Always building."*
 
