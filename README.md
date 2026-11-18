@@ -78,7 +78,8 @@ I enjoy building practical applications using **Java, Spring Boot, PostgreSQL, a
 
 ## 🚀 Featured Projects
 
-### 🛡️ SecureCode AI — Secure Coding Learning Platform
+### 🛡️ [SecureCode AI](https://github.com/jainharsh24/SecureCodingAi) — Secure Coding Learning Platform
+
 
 Developed a **LeetCode-style secure coding practice platform** that helps students learn secure programming through hands-on vulnerability-based challenges.
 
@@ -94,7 +95,8 @@ Developed a **LeetCode-style secure coding practice platform** that helps studen
 
 ---
 
-### 📚 SelfEdu — AI Roadmap Generator & Self-Learning Platform
+### 📚 [SelfEdu](https://github.com/jainharsh24/SelfEdu-Hub) — AI Roadmap Generator & Self-Learning Platform
+
 
 Built an **AI-powered self-learning platform** that generates personalized learning roadmaps and provides structured resources, quizzes, and progress tracking.
 
@@ -109,7 +111,8 @@ Built an **AI-powered self-learning platform** that generates personalized learn
 
 ---
 
-### 🩺 ExplainReport — AI Medical Report Explainer
+### 🩺 [ExplainReport](https://github.com/jainharsh24/AI-ExplainReport) — AI Medical Report Explainer
+
 
 Developed and deployed an **AI-assisted medical report explanation system** that processes PDF reports and provides understandable health information.
 
